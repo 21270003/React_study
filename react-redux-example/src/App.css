@@ -1,0 +1,12 @@
+#container,
+#container div{
+  border: 5px solid green;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+#grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
